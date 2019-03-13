@@ -1,10 +1,10 @@
 $(document).ready(function () {
 
     var animals = [
-        "dog", "cat", "rabbit", "hamster", "skunk", "goldfish",
         "bird", "ferret", "turtle", "sugar glider", "chinchilla",
+        "dog", "cat", "rabbit", "hamster", "skunk", "goldfish",
         "hedgehog", "hermit crab", "gerbil", "pygmy goat", "chicken",
-        "capybara", "teacup pig", "serval", "salamander", "frog"
+        "capybara", "salamander", "frog", "teacup pig", "serval"
     ];
 
     // function to make buttons and add to page
